@@ -1,4 +1,4 @@
-# Holiday requests app
+# Holiday requests system
 
 A leaave request system for employees to digitally request their leave and managers to approve or deny them.
 
